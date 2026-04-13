@@ -1,0 +1,12 @@
+{
+  "export_job_id": "96bf575d-ec50-4864-b7a1-adcda9197f51",
+  "id_short": 553618,
+  "published_at": "2026-04-13T19:16:34Z",
+  "repo_name": "the-hhi-monopoly-index-for-vermont-us-sample-553618",
+  "sample_asset_name": "beamstation_553618_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/553618/beamstation_553618_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "2b875e1b14546dc167cd6c0f20f63230351a1d79619a7b9b5affb2a13feb0e75",
+  "sample_size_bytes": 28660,
+  "total_records": 64
+}
