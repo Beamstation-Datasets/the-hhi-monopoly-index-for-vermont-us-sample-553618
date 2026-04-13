@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Vermont, US",
+  "export_job_id": "96bf575d-ec50-4864-b7a1-adcda9197f51",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 553618,
+  "location_name": "Vermont",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-vermont-us-sample-553618",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/553618/beamstation_553618_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_pct": 4.69,
+  "sample_records": 3,
+  "sample_sha256": "2b875e1b14546dc167cd6c0f20f63230351a1d79619a7b9b5affb2a13feb0e75",
+  "sample_size_bytes": 28660,
+  "total_records": 64,
+  "updated_at": "2026-04-01T00:07:45.189421+00:00"
+}
